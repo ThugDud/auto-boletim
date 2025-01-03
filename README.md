@@ -14,9 +14,7 @@ Este é um projeto simples que combina uma interface HTML e um script Python par
   - Notas por matéria
   - Status de aprovação por matéria (baseado na nota mínima de 6.0)
 
-## Como Usar
-
-### Pré-requisitos
+## Pré-requisitos
 - Python instalado (versão 3.6+ recomendada)
 - Biblioteca `fpdf` instalada:
   ```bash
